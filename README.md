@@ -10,8 +10,13 @@
 
 ## PROFESSIONAL EXPERIENCE
 
+### Senior Data Analyst @ **Docway**
+São Paulo, BR - Hybrid (*01/2025 to Present)
+
+- Responsible for restructuring and maintaining the company's internal BIs, leading to gains in efficiency, scalability and simplicity, allowing data-driven decisions.
+
 ### Data Scientist @ **Tenaris**
-Pindamonhangaba, BR – On-Site  (*12/2023 to Present*)
+Pindamonhangaba, BR – On-Site  (*12/2023 to 01/2025*)
 
 - Developed an end-to-end solution to estimate standard production cycle time of a machine with high fidelity (r² = 0.91) and delivered results through an API.
 - Created a performance tracking tool for various industrial KPIs, providing comprehensive statistical analyses and enabling data-driven decisions.
