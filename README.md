@@ -1,6 +1,7 @@
 # Data Portfolio
 
 **Victor vinci Fantucci**
+
 **Data Analyst | Data Engineer**
 
 ## PERSONAL INFO
