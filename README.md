@@ -1,6 +1,7 @@
 # Data Portfolio
 
 **Victor vinci Fantucci**
+
 **Data Analyst | Data Engineer**
 
 **Location:** São Paulo, SP, Brazil | **Phone:** +55 11 99725-4334 | **Email:** victor.v.fantucci@gmail.com
