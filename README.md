@@ -3,10 +3,15 @@
 **Victor vinci Fantucci**
 **Data Analyst | Data Engineer**
 
+## PERSONAL INFO
+
 **Location:** São Paulo, SP, Brazil | **Phone:** +55 11 99725-4334 | **Email:** victor.v.fantucci@gmail.com
 [LinkedIn](https://www.linkedin.com/in/victor-vinci-fantucci) | [GitHub](https://github.com/VictorFantucci) | [Kaggle](https://www.kaggle.com/victorvincifantucci)
 
+---
+
 - [Data Portfolio](#data-portfolio)
+  - [PERSONAL INFO](#personal-info)
   - [PROJECTS](#projects)
     - [r4ven-utils 🗂️](#r4ven-utils-️)
   - [PROFESSIONAL EXPERIENCE](#professional-experience)
