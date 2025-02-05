@@ -2,7 +2,7 @@
 
 **Victor vinci Fantucci**
 
-**Data Analyst | Data Engineer**
+**Data Analyst** | **Data Engineer**
 
 ## PERSONAL INFO
 
